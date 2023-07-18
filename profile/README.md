@@ -36,3 +36,35 @@
 <h2 align="left">🏅Our works and achievement</h2>
 
 ###
+
+<p align="left">🏆Third Prize and Art Reward STEME Day by VinUni University.</p>
+
+###
+
+<p align="left">🏆Second Prize and Media Award Vietnam STEAM Challenge 2021.</p>
+
+###
+
+<p align="left">🏆Best Engineering Award and People's Choice Tech Genius 2022 by RMIT University.</p>
+
+###
+
+<p align="left">📆STEMIST CAMP 2022 - The first Science Camp in Son Tay High School.</p>
+
+###
+
+<p align="left">🏆Third Prize, Media Award and Engineering Design Award Vietnam Robotics Challenge 2022.</p>
+
+###
+
+<p align="left">🏆Third Prize Eco - Friendly Robotics Competition 2022-2023</p>
+
+###
+
+<p align="left">📆STEMIST EXPERIENCE DAY 2023: THE TEMPORIS.</p>
+
+###
+
+<p align="left">🏆Ranked 28/66, Engineering Document Award and Bronze Media Award Vietnam Robotics Challenge 2023.</p>
+
+###

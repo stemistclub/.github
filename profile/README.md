@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🪪We are Stemist Club from Mechanical and Software Engineering Department. <br>🏆Our goals is to get STEAM available to anyone around the globe. <br>📖By planing event that help students to get started with STEM and Robotics. <br>🎮Spread the message of solving global problems by participating in robotics competitions with the message of global protection.</p>
+<p align="left">🪪We are Stemist Club from Mechanical and Software Engineering Department. <br>🏆Our goals is to bring STEAM available to everyone around the globe. <br>📖By planning events that get students started with STEM and Robotics. <br>🎮Spread the message of solving global problems by participating in robotics competitions with the message of global protection.</p>
 
 ###
 
